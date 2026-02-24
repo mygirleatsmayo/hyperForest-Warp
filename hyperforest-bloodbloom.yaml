@@ -1,0 +1,29 @@
+name: hyperForestBloodBloom
+accent: '#ff1493'
+cursor: '#ff1493'
+background:
+  top: '#001700'
+  bottom: '#19001B'
+foreground: '#ffb3d9'
+details: darker
+
+terminal_colors:
+  normal:
+    black: '#0a160a'
+    red: '#ff1493'
+    green: '#2ecc71'
+    yellow: '#f1c40f'
+    blue: '#9b59b6'
+    magenta: '#ff69b4'
+    cyan: '#1abc9c'
+    white: '#ffb3d9'
+
+  bright:
+    black: '#1a3d1a'
+    red: '#ff3db8'
+    green: '#4fc882'
+    yellow: '#f9e79f'
+    blue: '#D36CFF'
+    magenta: '#ff85c1'
+    cyan: '#48c9b0'
+    white: '#ffd4ec'
