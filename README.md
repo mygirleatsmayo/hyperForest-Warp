@@ -28,15 +28,21 @@ Both themes share the same ANSI color palette.
 
 | Color | Hex | Role |
 |-------|-----|------|
-| Deep Pink | `#ff1493` | Accent, cursor, ANSI red |
-| Hot Pink | `#ff69b4` | ANSI magenta |
-| Light Pink | `#ffb3d9` | Foreground, ANSI white |
-| Green | `#2ecc71` | ANSI green |
-| Mint | `#4fc882` | ANSI bright green |
-| Yellow | `#f1c40f` | ANSI yellow |
-| Purple | `#9b59b6` | ANSI blue |
-| Electric Purple | `#D36CFF` | ANSI bright blue |
-| Teal | `#1abc9c` | ANSI cyan |
-| Forest Green | `#0d1f0d` | Background (hyperForest) |
-| Deep Forest | `#001700` | Background top (BloodBloom) |
+| Deep Pink | `#ff1493` | Accent, cursor, bright red |
+| Bright Pink | `#ff3db8` | Normal red |
+| Hot Pink | `#ff69b4` | Bright magenta |
+| Soft Pink | `#ff85c1` | Normal magenta |
+| Light Pink | `#ffb3d9` | Foreground, normal white |
+| Very Light Pink | `#ffd4ec` | Bright white |
+| Mint | `#4fc882` | Normal green |
+| Green | `#2ecc71` | Bright green |
+| Pale Yellow | `#f9e79f` | Normal yellow |
+| Yellow | `#f1c40f` | Bright yellow |
+| Soft Purple | `#B080C8` | Normal blue |
+| Lavender | `#C9A0E0` | Bright blue |
+| Bright Teal | `#48c9b0` | Normal cyan |
+| Teal | `#1abc9c` | Bright cyan |
+| Grey-Green | `#7F857F` | Normal black |
+| Sage | `#738873` | Bright black |
+| Deep Forest | `#001700` | Background (both) |
 | Dark Purple | `#19001B` | Background bottom (BloodBloom) |
