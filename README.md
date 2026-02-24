@@ -4,9 +4,15 @@ Dark terminal themes with deep forest greens and fluorescent pinks. Part of the 
 
 ## Themes
 
-**hyperForest** — Solid dark green background with the core hyperForest palette.
+### hyperForest
+Solid dark green background with the core hyperForest palette.
 
-**hyperForestBloodBloom** — Variant with a subtle green-to-purple background gradient.
+![hyperForest](screenshots/hyperForest-screenshot.png)
+
+### hyperForestBloodBloom
+Variant with a subtle green-to-purple background gradient.
+
+![hyperForestBloodBloom](screenshots/hyperForestBloodBloom-screenshot.png)
 
 Both themes share the same ANSI color palette.
 
