@@ -9,21 +9,21 @@ details: darker
 
 terminal_colors:
   normal:
-    black: '#0a160a'
-    red: '#ff1493'
-    green: '#2ecc71'
-    yellow: '#f1c40f'
-    blue: '#9b59b6'
-    magenta: '#ff69b4'
-    cyan: '#1abc9c'
-    white: '#ffb3d9'
-
-  bright:
-    black: '#1a3d1a'
+    black: '#7F857F'
     red: '#ff3db8'
     green: '#4fc882'
     yellow: '#f9e79f'
-    blue: '#D36CFF'
+    blue: '#B080C8'
     magenta: '#ff85c1'
     cyan: '#48c9b0'
+    white: '#ffb3d9'
+
+  bright:
+    black: '#738873'
+    red: '#ff1493'
+    green: '#2ecc71'
+    yellow: '#f1c40f'
+    blue: '#C9A0E0'
+    magenta: '#ff69b4'
+    cyan: '#1abc9c'
     white: '#ffd4ec'
